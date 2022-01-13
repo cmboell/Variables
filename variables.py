@@ -16,7 +16,7 @@ size = 8.5
 HAT_PRICE = 12.21
 
 # print commands to print statements
-print(quantity, ' ', item, ' size: ', size)
+print(quantity, item, 'size:', size)
 print(item + ' are $', HAT_PRICE)
 """
 Expected outcomes
