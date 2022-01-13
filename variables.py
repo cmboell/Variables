@@ -8,7 +8,6 @@ The input is quantity (integer), item (string), and size (float-point number),
 and a constant variable for price.
 The output should display (printed out) all the variables
 """
-
 # variables
 quantity = 7
 item = "hats"
